@@ -1,4 +1,5 @@
-# Branding
+<img src="banner.png" alt="Banner" width="100%">
+
 ## Logos
 ### Lockups
 #### Swift Accelerator Programme
@@ -29,8 +30,24 @@ White                       | <img src="logos/icons/png/white.png" width=60>    
 ![Orange, #FB753A](https://img.shields.io/badge/-%23FB753A-%23FB753A?style=flat-square)
 ![Yellow, #F2C949](https://img.shields.io/badge/-%23F2C949-%23F2C949?style=flat-square)
 
+### Gradient
+From the top-left corner (Orange, #FB753A) to the bottom-right (Yellow, #F2C949).
+<img src="colours/gradient.png" alt="Gradient from top-left orange to bottom-right yellow" width="100%">
+
 ## Fonts & Typography
+- Avenir Next: Primary font used for most of the Swift Innovators' Summit assets. 
+- Rubik: Consistent with Tinkercademy/Tinkertanker branding. Usually used for Swift Accelerator Programme.
 
 ## App Icons
+All app icons must have a corner radius of `22%`.
+
+The app icons from every batch can be found [here](appicons/).
+
+Yes | No |
+----|----|
+<img src="appicons/2018/Tasks.png" alt="Tasks icon with 22% corner radius" style="width: 100px; height: 100px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"> | <img src="appicons/2018/Tasks.png" alt="Tasks icon with no corner radius" style="width: 100px; height: 100px; overflow: hidden; display: inline-block; vertical-align: middle;"> <img src="appicons/2018/Tasks.png" alt="Tasks icon with 10% corner radius" style="width: 100px; height: 100px; border-radius: 10%; overflow: hidden; display: inline-block; vertical-align: middle;"> <img src="appicons/2018/Tasks.png" alt="Tasks icon with 33% corner radius" style="width: 100px; height: 100px; border-radius: 33%; overflow: hidden; display: inline-block; vertical-align: middle;">
 
 ## Emails
+JotForm auto-responder email template for the Swift Accelerator Programme or Swift Innovators' Summit. ([.html](email/email.html))
+
+<img src="email/preview.png" width=500>
