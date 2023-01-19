@@ -43,9 +43,7 @@ All app icons must have a corner radius of `22%`.
 
 The app icons from every batch can be found [here](appicons/).
 
-Yes | No |
-----|----|
-<img src="appicons/2018/Tasks.png" alt="Tasks icon with 22% corner radius" style="width: 100px; height: 100px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"> | <img src="appicons/2018/Tasks.png" alt="Tasks icon with no corner radius" style="width: 100px; height: 100px; overflow: hidden; display: inline-block; vertical-align: middle;"> <img src="appicons/2018/Tasks.png" alt="Tasks icon with 10% corner radius" style="width: 100px; height: 100px; border-radius: 10%; overflow: hidden; display: inline-block; vertical-align: middle;"> <img src="appicons/2018/Tasks.png" alt="Tasks icon with 33% corner radius" style="width: 100px; height: 100px; border-radius: 33%; overflow: hidden; display: inline-block; vertical-align: middle;">
+<img src="appicons/corner-radius-guide.png" width=300>
 
 ## Emails
 JotForm auto-responder email template for the Swift Accelerator Programme or Swift Innovators' Summit. ([.html](email/email.html))
