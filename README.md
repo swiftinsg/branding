@@ -17,6 +17,14 @@ Coloured - Dark Background  | <img src="logos/lockups/sis/png/coloured - dark ba
 Black                       | <img src="logos/lockups/sis/png/black.png" width=60>                       | [.ai](logos/lockups/sis/illustrator/black.ai) [.png](logos/lockups/sis/png/black.png)                                                         |
 White                       | <img src="logos/lockups/sis/png/white.png" width=60>                       | [.ai](logos/lockups/sis/illustrator/white.ai) [.png](logos/lockups/sis/png/white.png)                                                         |
 
+### Icon
+Style                       | Image                                                                      | Files |
+----------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+Coloured - Light Background | <img src="logos/icons/png/coloured - light background.png" width=60> | [.ai](logos/icons/illustrator/coloured%20-%20light%20background.ai) [.png](logos/icons/png/coloured%20-%20light%20background.png) |
+Coloured - Dark Background  | <img src="logos/icons/png/coloured - dark background.png" width=60>  | [.ai](logos/icons/illustrator/coloured%20-%20dark%20background.ai) [.png](logos/icons/png/coloured%20-%20dark%20background.png)   |
+Black                       | <img src="logos/icons/png/black.png" width=60>                       | [.ai](logos/icons/illustrator/black.ai) [.png](logos/icons/png/black.png)                                                         |
+White                       | <img src="logos/icons/png/white.png" width=60>                       | [.ai](logos/icons/illustrator/white.ai) [.png](logos/icons/png/white.png)                                                         |
+
 ## Colours
 ![Orange, #FB753A](https://img.shields.io/badge/-%23FB753A-%23FB753A?style=flat-square)
 ![Yellow, #F2C949](https://img.shields.io/badge/-%23F2C949-%23F2C949?style=flat-square)
