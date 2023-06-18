@@ -37,3 +37,8 @@
 ## Ailerons (Deprecated)
 - Used in 2018 as part of the summit design, alongside Avenir Next.
 - Notably used in the 2018 shirt design.
+
+<details>
+<summary>Sample</summary>
+<img src="typography/Ailerons.png" alt="Ailerons" width="100%">
+</details>
