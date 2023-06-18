@@ -1,4 +1,4 @@
-<img src="banners/App%20Icons.png" alt="Banner" width="100%">
+<img src="banners/AppIcons.png" alt="Banner" width="100%">
 
 All app icons must have a corner radius of `22%`.
 
