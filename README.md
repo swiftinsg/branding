@@ -1,7 +1,8 @@
 <img src="banners/banner.png" alt="Banner" width="100%">
 
 
-# Resources & Guidelines
+# Guidelines & Resources
+The Swift Accelerator Programme/Swift Innovators' Summit brand guidelines helps to ensure that the brand maintains a constant visual identity.
 
 ## Highlights
 <a href="logos"> <img src="banners/small/Logos.png" alt="Logos" width="30%"> </a> 
