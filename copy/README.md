@@ -1,6 +1,15 @@
 <img src="../banners/Copy.png" alt="Banner" width="100%">
 
 # Guidelines
+## Names
+### Swift Accelerator Programme
+- It should be capitalized in the format as shown above.
+- "Programme", not "Program"
+
+### Swift Innovators' Summit
+- It should be capitalized in the format as shown above.
+- There should be an apostrophe after the "Innovators" to refer to the summit belonging to _Swift Innovators_.
+
 ## Writing Style
 For Swift Accelerator communications, it is vital all communications sound consistent.
 - British English.
