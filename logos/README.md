@@ -14,7 +14,7 @@
 
 | <img src="./donts/G.png" width=100%> | <img src="./donts/H.png" width=100%> | <img src="./donts/I.png" width=100%> |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| Don't change the scale of elements in the identity. | Don't change the color of the identity elements beyond the approved colors. | Don't touch the Swift logo. |
+| Don't change the scale of elements in the identity. | Don't change the colour of the identity elements beyond the approved colours. | Don't touch the Swift logo. |
 
 # Resources
 <details>
