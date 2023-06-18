@@ -1,14 +1,20 @@
 <img src="banners/Logos.png" alt="Banner" width="100%">
 
 # Guidelines
-- Don't stretch, condense or change the dimensions of the identity elements.
-- Don't rearrange the elements of the identity.
-- Don't skew or warp, set it on an angle, or wrap the identity around a shape.
-- Don't alter or replace the typefaces in the identity.
-- Don't apply drop shadows or other visual effects to the identity.
-- Don't add extra elements to the identity.
-- Don't change the scale of elements in the identity.
-- Don't change the color of the identity elements beyond the approved colors.
+
+## Don'ts
+
+| <img src="logos/donts/A.png" width=100%> | <img src="logos/donts/B.png" width=100%> | <img src="logos/donts/C.png" width=100%> |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| Don't stretch, condense or change the dimensions of the identity elements. | Don't rearrange the elements of the identity. | Don't skew or warp, set it on an angle, or wrap the identity around a shape. |
+
+| <img src="logos/donts/D.png" width=100%> | <img src="logos/donts/E.png" width=100%> | <img src="logos/donts/F.png" width=100%> |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| Don't alter or replace the typefaces in the identity. | Don't apply drop shadows or other visual effects to the identity. | Don't add extra elements to the identity. |
+
+| <img src="logos/donts/G.png" width=100%> | <img src="logos/donts/H.png" width=100%> | <img src="logos/donts/I.png" width=100%> |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| Don't change the scale of elements in the identity. | Don't change the color of the identity elements beyond the approved colors. | Don't touch the Swift logo. |
 
 # Resources
 <details>
