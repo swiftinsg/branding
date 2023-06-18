@@ -1,4 +1,4 @@
-<img src="banners/Copy.png" alt="Banner" width="100%">
+<img src="../banners/Copy.png" alt="Banner" width="100%">
 
 These copies are a set of standard paragraphs that can be used to describe the Swift Accelerator Programme or the Swift Innovators' Summit.
 
