@@ -1,6 +1,11 @@
 <img src="../banners/Logos.png" alt="Banner" width="100%">
 
 # Guidelines
+## Dos
+- Do use the coloured version of the logo when possible
+  - Use the black or white logo on black and white layouts.
+  - Do not convert the coloured logo to black and white.
+- Use the light/dark background versions to ensure sufficient contrast between the logo and background, ensuring any text on the lockup remains legible.
 
 ## Don'ts
 
@@ -15,6 +20,9 @@
 | <img src="./donts/G.png" width=100%> | <img src="./donts/H.png" width=100%> | <img src="./donts/I.png" width=100%> |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 | Don't change the scale of elements in the identity. | Don't change the colour of the identity elements beyond the approved colours. | Don't touch the Swift logo. |
+
+## The Swift Logo
+The Swift Logo has it's own guidelines. Read more, and download it [here](https://developer.apple.com/swift/downloads/swift-logo.zip).
 
 # Resources
 <details>
