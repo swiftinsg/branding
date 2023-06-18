@@ -2,11 +2,13 @@
 
 # Avenir Next
 - Used for the Swift Innovators' Summit.
-- Primary font used for most of the Swift Innovators' Summit assets. 
+- Primary font used for most of the Swift Innovators' Summit assets.
+- Built-in typeface on Mac.
 
 # Rubik
 - Used for the Swift Accelerator Programme.
 - Consistent with Tinkercademy/Tinkertanker branding. 
+- Download typeface from [Google Fonts](https://fonts.google.com/specimen/Rubik).
 
 ---
 
