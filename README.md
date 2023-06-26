@@ -13,6 +13,7 @@ The Swift Accelerator Programme/Swift Innovators' Summit brand guidelines helps 
 <a href="copy"> <img src="banners/small/Copy.png" alt="Copy" width="30%"> </a> 
 <a href="email"> <img src="banners/small/Email.png" alt="Email" width="30%"> </a>
 <a href="appicons"> <img src="banners/small/AppIcons.png" alt="App Icon" width="30%"> </a>
+<a href="newsroom"> <img src="banners/small/Newsroom.png" alt="App Icon" width="30%"> </a>
 
 # Contributing
 These guides and resources are not set in stone. This repository is designed as a one-stop spot for anyone who needs Swift Accelerator Programme/Swift Innovators' Summit brand assets and guidelines, providing a way for us to pass information through different batches of the programme. 
