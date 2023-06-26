@@ -7,7 +7,7 @@
 ## 2023
 **June 21**: SGEEK News — [Swift Student Challenge 2023](https://sgeek.sg/swift-student-challenge-2023/)
 
-**June 12**: ELLE Singapore — [Meet the 17-year-old Singaporean who is the winner f Apple's WWDC23 Swift Student Challenge](https://elle.com.sg/2023/06/12/meet-the-17-year-old-singaporean-who-is-the-winner-of-apples-wwdc23-swift-student-challenge/)
+**June 12**: ELLE Singapore — [Meet the 17-year-old Singaporean who is the winner of Apple's WWDC23 Swift Student Challenge](https://elle.com.sg/2023/06/12/meet-the-17-year-old-singaporean-who-is-the-winner-of-apples-wwdc23-swift-student-challenge/)
 
 **May 29**: Hardware Zone — [From coding novice to tech mentor: An inspiring journey with Apple's Swift Accelerator Programme](https://www.hardwarezone.com.sg/feature-wwdc2023-swift-accelerator-programme-apple)
 
