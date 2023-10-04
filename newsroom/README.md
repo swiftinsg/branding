@@ -5,6 +5,9 @@
 > News links should be ordered in reverse-chronological (newest-first).
 
 ## 2023
+### September
+**September 22**: Apple.com — [Jia Chen Yee: Apple Education Story](https://apple.com/sg/education/college-students/#jiachen-yee)
+
 ### June
 **June 21**: SGEEK News — [Swift Student Challenge 2023](https://sgeek.sg/swift-student-challenge-2023/)
 
