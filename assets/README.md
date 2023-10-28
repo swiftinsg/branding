@@ -11,3 +11,7 @@
   - [SIS 2023 Invite](SIS%202023/social%20media/Invite.fig)
   - [Speakers Social Media Post](SIS%202023/social%20media/Speakers.fig)
   - [June Holidays Social Media Post](SIS%202023/social%20media/June%20Holidays%20Workshop.fig)
+- Conference Pass
+  - [Pass](SIS%202023/conference%20pass/Pass.ai)
+  - [Workshop Stickers](SIS%202023/conference%20pass/Workshop%20Stickers.ai)
+- [Stickers](SIS%202023/stickers.ai)
