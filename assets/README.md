@@ -14,4 +14,5 @@
 - Conference Pass
   - [Pass](SIS%202023/conference%20pass/Pass.ai)
   - [Workshop Stickers](SIS%202023/conference%20pass/Workshop%20Stickers.ai)
+  - [School Apps](SIS%202023/conference%20pass/School%20Apps.fig)
 - [Stickers](SIS%202023/stickers.ai)
