@@ -3,12 +3,19 @@
 # Guidelines
 ## Names
 ### Swift Accelerator Programme
+- Name of the programme
 - It should be capitalized in the format as shown above.
 - "Programme", not "Program"
 
 ### Swift Innovators' Summit
+- Name of the graduation event
 - It should be capitalized in the format as shown above.
 - There should be an apostrophe after the "Innovators" to refer to the summit belonging to _Swift Innovators_.
+
+### swiftinsg
+- Name of the alumni community
+- Generally stylised as lowercase
+- Shorthand for "**Swift In**novators' Singapore"
 
 ## Writing Style
 For Swift Accelerator communications, it is vital all communications sound consistent.
