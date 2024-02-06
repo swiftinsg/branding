@@ -4,6 +4,13 @@
 >
 > News links should be ordered in reverse-chronological (newest-first).
 
+## 2024
+## February 
+**February 6**: Geek Culture — [Apple’s Swift Student Challenge 2024 Opens With New Distinguished Winners Category](https://geekculture.co/apples-swift-student-challenge-2024-opens-with-new-distinguished-winners-category/)
+
+## January
+**January 11**: App Store Story — [Behind The Scenes: Meet the next generation of coders](https://apps.apple.com/sg/story/id1717569875)
+
 ## 2023
 ### September
 **September 22**: Apple.com — [Jia Chen Yee: Apple Education Story](https://apple.com/sg/education/college-students/#jiachen-yee)
