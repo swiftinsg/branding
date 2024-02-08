@@ -6,6 +6,7 @@
 
 ## 2024
 ## February 
+**February 6**: Hardware Zone — [Apple's Swift Student Challenge is now opened for applications: Winners get a golden ticket to Apple Park](https://www.hardwarezone.com.sg/tech-news-apples-swift-student-challenge-applications-winners-get-golden-ticket-apple-park)
 **February 6**: Geek Culture — [Apple’s Swift Student Challenge 2024 Opens With New Distinguished Winners Category](https://geekculture.co/apples-swift-student-challenge-2024-opens-with-new-distinguished-winners-category/)
 
 ## January
