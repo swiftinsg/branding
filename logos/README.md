@@ -9,24 +9,23 @@
 
 ## Don'ts
 
-| <img src="./donts/A.png" width=100%> | <img src="./donts/B.png" width=100%> | <img src="./donts/C.png" width=100%> |
-|:-------------------------:|:-------------------------:|:-------------------------:|
 | Don't stretch, condense or change the dimensions of the identity elements. | Don't rearrange the elements of the identity. | Don't skew or warp, set it on an angle, or wrap the identity around a shape. |
-
-| <img src="./donts/D.png" width=100%> | <img src="./donts/E.png" width=100%> | <img src="./donts/F.png" width=100%> |
 |:-------------------------:|:-------------------------:|:-------------------------:|
+| <img src="./donts/A.png" width=100%> | <img src="./donts/B.png" width=100%> | <img src="./donts/C.png" width=100%> |
+
 | Don't alter or replace the typefaces in the identity. | Don't apply drop shadows or other visual effects to the identity. | Don't add extra elements to the identity. |
-
-| <img src="./donts/G.png" width=100%> | <img src="./donts/H.png" width=100%> | <img src="./donts/I.png" width=100%> |
 |:-------------------------:|:-------------------------:|:-------------------------:|
+| <img src="./donts/D.png" width=100%> | <img src="./donts/E.png" width=100%> | <img src="./donts/F.png" width=100%> |
+
 | Don't change the scale of elements in the identity. | Don't change the colour of the identity elements beyond the approved colours. | Don't touch the Swift logo. |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| <img src="./donts/G.png" width=100%> | <img src="./donts/H.png" width=100%> | <img src="./donts/I.png" width=100%> |
 
 ## The Swift Logo
 The Swift Logo has it's own guidelines. Read more, and download it [here](https://developer.apple.com/swift/downloads/swift-logo.zip).
 
 # Resources
-<details>
-<summary><h2>Lockups</h2></summary>
+<details><summary><h2>Lockups</h2></summary>
 
 ### Swift Accelerator Programme
 Style                       | Image                                                                      | Files |
@@ -45,8 +44,7 @@ Black                       | <img src="./lockups/sis/png/black.png" width=60>  
 White                       | <img src="./lockups/sis/png/white.png" width=60>                       | [.ai](./lockups/sis/illustrator/white.ai) [.png](./lockups/sis/png/white.png)                                                         |
 </details>
 
-<details>
-<summary><h2>Icon</h2></summary>
+<details><summary><h2>Icon</h2></summary>
   
 Style                       | Image                                                                      | Files |
 ----------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
