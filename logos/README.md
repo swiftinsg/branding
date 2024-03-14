@@ -30,10 +30,10 @@ The Swift Logo has it's own guidelines. Read more, and download it [here](https:
 ### Swift Accelerator Programme
 Style                       | Image                                                                      | Files |
 ----------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-Coloured - Light Background | <img src="./lockups/sap/png/coloured - light background.png" width=60> | [.ai](./lockups/sap/illustrator/coloured%20-%20light%20background.ai) [.png](./lockups/sap/png/coloured%20-%20light%20background.png) |
-Coloured - Dark Background  | <img src="./lockups/sap/png/coloured - dark background.png" width=60>  | [.ai](./lockups/sap/illustrator/coloured%20-%20dark%20background.ai) [.png](./lockups/sap/png/coloured%20-%20dark%20background.png)   |
-Black                       | <img src="./lockups/sap/png/black.png" width=60>                       | [.ai](./lockups/sap/illustrator/black.ai) [.png](./lockups/sap/png/black.png)                                                         |
-White                       | <img src="./lockups/sap/png/white.png" width=60>                       | [.ai](./lockups/sap/illustrator/white.ai) [.png](./lockups/sap/png/white.png)                                                         |
+Coloured - Light Background | <img src="./lockups/sap/png/coloured - light background.png" width=60> | [.ai](https://github.com/swiftinsg/branding/blob/main/logos/lockups/sap/illustrator/coloured%20-%20light%20background.ai) [.png](https://github.com/swiftinsg/branding/blob/main/logos/lockups/sap/png/coloured%20-%20light%20background.png) |
+Coloured - Dark Background  | <img src="./lockups/sap/png/coloured - dark background.png" width=60>  | [.ai](https://github.com/swiftinsg/branding/blob/main/logos/lockups/sap/illustrator/coloured%20-%20dark%20background.ai) [.png](https://github.com/swiftinsg/branding/blob/main/logos/lockups/sap/png/coloured%20-%20dark%20background.png)   |
+Black                       | <img src="./lockups/sap/png/black.png" width=60>                       | [.ai](https://github.com/swiftinsg/branding/blob/main/logos/lockups/sap/illustrator/black.ai) [.png](https://github.com/swiftinsg/branding/blob/main/logos/lockups/sap/png/black.png)                                                         |
+White                       | <img src="./lockups/sap/png/white.png" width=60>                       | [.ai](https://github.com/swiftinsg/branding/blob/main/logos/lockups/sap/illustrator/white.ai) [.png](https://github.com/swiftinsg/branding/blob/main/logos/lockups/sap/png/white.png)                                                         |
 
 ### Swift Innovators' Summit
 Style                       | Image                                                                      | Files |
